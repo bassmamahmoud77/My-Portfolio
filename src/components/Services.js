@@ -81,7 +81,7 @@ const Services = () => {
             variants={fadeIn("left", 0.3)}
             initial="hidden"
             whileInView={"show"}
-            viewport={{ once: false, amount: 0.5 }}
+            viewport={{ once: false, amount: 0.3 }}
             className="flex-1 "
           >
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-x-6 ">

@@ -18,7 +18,7 @@ const Contact = () => {
             <h2 className='text-[45px] lg:text-[90px] leading-none  mb-12'>Let's work <br /> together!</h2>
           </div>
           <div className="container mx-auto">
-      <div className='w-[300px] sm:mb-4 bg-black/20 h-[96px] backdrop-blur-2xl rounded-full max-w-[460px] mx-auto px-5 flex justify-center items-center text-2xl text-white/50'>
+      <div className='w-[300px] mb-4 lg:mb-0 bg-black/20 h-[96px] backdrop-blur-2xl rounded-full max-w-[460px] mx-auto px-5 flex justify-center items-center text-2xl text-white/50'>
       <motion.div variants={fadeIn("up", 0.7)}
               initial="hidden"
               whileInView={"show"}

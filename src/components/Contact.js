@@ -3,7 +3,7 @@ import React from 'react';
 import { motion } from 'framer-motion'
 
 import { fadeIn } from '../variants'
-import { FaDribbble, FaGithub, FaLinkedinIn } from 'react-icons/fa';
+import { FaDribbble, FaFacebookF, FaGithub, FaLinkedinIn } from 'react-icons/fa';
 
 const Contact = () => {
   return <section className='py-16 lg:section' id='contact'>
@@ -19,10 +19,10 @@ const Contact = () => {
           </div>
           <div className="container mx-auto">
       <div className='w-[300px] mb-4 lg:mb-0 bg-black/20 h-[96px] backdrop-blur-2xl rounded-full max-w-[460px] mx-auto px-5 flex justify-center items-center text-2xl text-white/50'>
-      <motion.div variants={fadeIn("up", 0.7)}
+      <motion.div variants={fadeIn("up", 0.3)}
               initial="hidden"
               whileInView={"show"}
-              viewport={{ once: false, amount: 0.7 }} className="flex text-[20px] gap-x-6 max-w-max mx-auto lg:mx-0 ">
+              viewport={{ once: false, amount: 0.3 }} className="flex text-[20px] gap-x-6 max-w-max mx-auto lg:mx-0 ">
               <a href="https://www.linkedin.com/in/basma-mahmoud-6a846225a" target="_blank" rel="noreferrer">
                 <FaLinkedinIn />
               </a>
@@ -31,11 +31,11 @@ const Contact = () => {
                 <FaGithub />
               </a>
               <a
-                href="https://bm10525@gmail.com"
+                href="https://www.facebook.com/bosy.noty.98?mibextid=LQQJ4d"
                 target="_blank"
                 rel="noreferrer"
               >
-                <FaDribbble />
+                <FaFacebookF />
               </a>
             </motion.div>
       </div>

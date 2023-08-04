@@ -2,7 +2,7 @@ import React from "react";
 
 import Image from "../assets/web-development.svg";
 
-import { FaGithub, FaLinkedinIn, FaDribbble } from "react-icons/fa";
+import { FaGithub, FaLinkedinIn,  FaFacebookF } from "react-icons/fa";
 
 import { TypeAnimation } from "react-type-animation";
 
@@ -25,17 +25,17 @@ const Banner = () => {
               initial="hidden"
               whileInView={"show"}
               viewport={{ once: false, amount: 0.7 }}
-              className="text-[55px] font-bold leading-[0.8] lg:text-[70px]"
+              className="text-[35px] font-bold leading-[0.8] lg:text-[50px]"
             >
               BASSMA <span>MAHMOUD</span>
             </motion.h1>
             <motion.div variants={fadeIn("up", 0.4)}
               initial="hidden"
               whileInView={"show"}
-              viewport={{ once: false, amount: 0.7 }} className="mb-6 text-[36px] lg:text-[60px] font-secondary font-semibold uppercase leading-[1]">
-              <span className="mr-4 text-white">I am a</span>
+              viewport={{ once: false, amount: 0.7 }} className="mb-6 text-[26px] lg:text-[40px] font-secondary font-semibold uppercase leading-[1]">
+              <span className="mr-4 text-white">I am a </span>
               <TypeAnimation
-                sequence={["Developer", 2000, "Developer", 2000]}
+                sequence={["Front end Developer", 2000, "React js Developer", 2000]}
                 speed={50}
                 className="text-accent"
                 wrapper="span"
@@ -84,11 +84,11 @@ const Banner = () => {
                 <FaGithub />
               </a>
               <a
-                href="https://bm10525@gmail.com"
+                href="https://www.facebook.com/bosy.noty.98?mibextid=LQQJ4d"
                 target="_blank"
                 rel="noreferrer"
               >
-                <FaDribbble />
+                <FaFacebookF />
               </a>
             </motion.div>
           </div>

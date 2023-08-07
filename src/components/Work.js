@@ -35,12 +35,12 @@ const Work = () => {
                 href="https://ecommerce-app88.netlify.app/"
                 target="_blank"
                 rel="noreferrer"
-                className="absolute -bottom-full left-8 mb-2 group-hover:bottom-24 transition-all duration-500 z-50 btn btn-lg leading-[3]"
+                className="absolute -bottom-full left-24 lg:left-28 mb-4 group-hover:bottom-16 transition-all duration-500 z-50 btn btn-lg leading-[3]"
               >
                 Live Demo
               </a>
-              <div className="absolute -bottom-full left-12 group-hover:bottom-14 transition-all duration-700 z-50">
-                <span className="text-white text-3xl">Ecommerce Shop</span>
+              <div className="absolute lg:-bottom-full left-20 lg:left-32 group-hover:bottom-8  transition-all duration-700 z-50 ">
+                <span className="text-white text-3xl sm:text-xl">Ecommerce Shop</span>
               </div>
             </div>
             <div className="group relative overflow-hidden border-2 border-white/50 rounded-xl">
@@ -54,12 +54,12 @@ const Work = () => {
                 href="https://real-estate77.netlify.app"
                 target="_blank"
                 rel="noreferrer"
-                className="absolute -bottom-full left-8 mb-2 group-hover:bottom-24 transition-all duration-500 z-50 btn btn-lg leading-[3]"
+                className="absolute -bottom-full left-24 mb-4 group-hover:bottom-16 transition-all duration-500 z-50 btn btn-lg leading-[3]"
               >
                 Live Demo
               </a>
-              <div className="absolute -bottom-full left-12 group-hover:bottom-14 transition-all duration-700 z-50">
-                <span className="text-white text-3xl">Real Estate</span>
+              <div className="absolute lg:-bottom-full left-28 lg:left-32 group-hover:bottom-8  transition-all duration-700 z-50 ">
+                <span className="text-white text-3xl sm:text-xl">Real Estate</span>
               </div>
             </div>
           </motion.div>
@@ -81,12 +81,12 @@ const Work = () => {
                 href="https://youtube-clone55.netlify.app/"
                 target="_blank"
                 rel="noreferrer"
-                className="absolute -bottom-full left-8 mb-4 group-hover:bottom-24 transition-all duration-500 z-50 leading-[3] btn btn-lg"
+                className="absolute -bottom-full left-24 mb-4 group-hover:bottom-16 transition-all duration-500 z-50 leading-[3] btn btn-lg"
               >
                 Live Demo
               </a>
-              <div className="absolute -bottom-full left-12 group-hover:bottom-14 transition-all duration-700 z-50">
-                <span className="text-white text-3xl">Youtube Clone</span>
+              <div className="absolute lg:-bottom-full left-24 lg:left-32 group-hover:bottom-8  transition-all duration-700 z-50 ">
+                <span className="text-white text-3xl sm:text-xl">Youtube Clone</span>
               </div>
             </div>
             <div className="group relative overflow-hidden border-2 border-white/50 rounded-xl">
@@ -100,12 +100,12 @@ const Work = () => {
                 href="https://restaurant-website55.netlify.app"
                 target="_blank"
                 rel="noreferrer"
-                className="absolute -bottom-full left-8 mb-4 group-hover:bottom-24 transition-all duration-500 z-50 leading-[3] btn btn-lg"
+                className="absolute -bottom-full left-24 lg:left-28 mb-4 group-hover:bottom-16 transition-all duration-500 z-50 leading-[3] btn btn-lg"
               >
                 Live Demo
               </a>
-              <div className="absolute -bottom-full left-12 group-hover:bottom-14 transition-all duration-700 z-50">
-                <span className="text-white text-3xl">Restaurant Website</span>
+              <div className="absolute lg:-bottom-full left-20 lg:left-32 group-hover:bottom-8  transition-all duration-700 z-50 ">
+                <span className="text-white text-3xl sm:text-xl">Restaurant Website</span>
               </div>
             </div>
           </motion.div>
@@ -127,12 +127,12 @@ const Work = () => {
                 href="https://animated-3d-card.netlify.app"
                 target="_blank"
                 rel="noreferrer"
-                className="absolute -bottom-full left-8 mb-4 group-hover:bottom-24 transition-all duration-500 z-50 leading-[3] btn btn-lg"
+                className="absolute -bottom-full left-24 lg:left-28 mb-4 group-hover:bottom-16 transition-all duration-500 z-50 leading-[3] btn btn-lg"
               >
                 Live Demo
               </a>
-              <div className="absolute -bottom-full left-12 group-hover:bottom-14 transition-all duration-700 z-50">
-                <span className="text-white text-3xl">3D Animated Card </span>
+              <div className="absolute lg:-bottom-full left-20 lg:left-32  group-hover:bottom-8 transition-all duration-700 z-50 ">
+                <span className="text-white text-3xl sm:text-xl"  >3D Animated Card </span>
               </div>
             </div>
             <div className="group relative overflow-hidden border-2 border-white/50 rounded-xl">
@@ -146,12 +146,12 @@ const Work = () => {
                 href="https://hotel-website55.netlify.app"
                 target="_blank"
                 rel="noreferrer"
-                className="absolute -bottom-full left-8 mb-4 group-hover:bottom-24 transition-all duration-500 z-50 leading-[3] btn btn-lg"
+                className="absolute -bottom-full  left-24 mb-4 group-hover:bottom-16 transition-all duration-500 z-50 leading-[3] btn btn-lg "
               >
                 Live Demo
               </a>
-              <div className="absolute -bottom-full left-12 group-hover:bottom-14 transition-all duration-700 z-50">
-                <span className="text-white text-3xl">Hotel Starter</span>
+              <div className="absolute -bottom-full  left-28 lg:left-32 group-hover:bottom-8 transition-all duration-700 z-50">
+                <span className="text-white text-3xl sm:text-xl">Hotel Starter</span>
               </div>
             </div>
           </motion.div>

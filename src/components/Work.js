@@ -22,16 +22,26 @@ const Work = () => {
             initial="hidden"
             whileInView={"show"}
             viewport={{ once: false, amount: 0.3 }}
-            className=" flex flex-col gap-y-12 mb-10 lg:mb-0"
+            className="flex-1 flex flex-col gap-y-12 mb-10 lg:mb-0"
           >
             <div className="group relative overflow-hidden border-2 border-white/50 rounded-xl">
-             
+              <div className="group-hover:bg-black/70 w-full h-full absolute z-40 transition-all duration-300"></div>
               <img
                 className="group-hover:scale-125 transition-all duration-500"
                 src={Img3}
                 alt=""
               />
-            
+              <a
+                href="https://ecommerce-app88.netlify.app/"
+                target="_blank"
+                rel="noreferrer"
+                className="absolute -bottom-full left-24 lg:left-28 mb-4 group-hover:bottom-16 transition-all duration-500 z-50 btn btn-lg leading-[3]"
+              >
+                Live Demo
+              </a>
+              <div className="absolute lg:-bottom-full left-20 lg:left-32 group-hover:bottom-8  transition-all duration-700 z-50 ">
+                <span className="text-white text-3xl sm:text-xl">Ecommerce Shop</span>
+              </div>
             </div>
             <div className="group relative overflow-hidden border-2 border-white/50 rounded-xl">
               <div className="group-hover:bg-black/70 w-full h-full absolute z-40 transition-all duration-300"></div>

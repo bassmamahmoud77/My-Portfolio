@@ -14,7 +14,7 @@ import Img6 from "../assets/youtube-clone.png";
 const Work = () => {
   return (
     <section className="section mt-6" id="work">
-      <div className="container mx-800">
+      <div className="container mx-200">
         <h2 className="h2 leading-tight text-accent">My Latest Work.</h2>
         <div className="flex flex-col lg:flex-col gap-x-10">
           <motion.div

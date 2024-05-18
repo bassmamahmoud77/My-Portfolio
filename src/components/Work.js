@@ -24,24 +24,13 @@ const Work = () => {
             viewport={{ once: false, amount: 0.3 }}
             className="flex-1 flex flex-col gap-y-12 mb-10 lg:mb-0"
           >
-            <div className="group relative overflow-hidden border-2 border-white/50 rounded-xl flex flex-row">
+            <div className="group relative overflow-hidden border-2 border-white/50 rounded-xl">
               <img
                 className="group-hover:scale-125 transition-all duration-500"
                 src={Img3}
                 alt=""
               />
-             <div>
-             Marketing Objectives: Conversion Campaign
-Industry: E-commerce
-Platform: TikTok
-Country: Saudi Arabia 
-Total Purchases = 42,295 Orders
-CPP (Cost Per Purchase) = 7.37 $
-Sales: 12,688,500 SAR
-A.O.V = 300 SAR
-ROAS = 10.8
-Total Spend = 311,623 $
-             </div>
+             =
             </div>
             <div className="group relative overflow-hidden border-2 border-white/50 rounded-xl">
               <div className="group-hover:bg-black/70 w-full h-full absolute z-40 transition-all duration-300"></div>

@@ -1,6 +1,6 @@
 import React from "react";
 
-import CountUp from "react-countup";
+// import CountUp from "react-countup";
 
 import { useInView } from "react-intersection-observer";
 
@@ -80,7 +80,7 @@ across a range of countries including Egypt, Saudi Arabia, Emirates .
               <a
                 className="text-gradient btn-link"
                 href="https://acrobat.adobe.com/id/urn:aaid:sc:eu:9d30f9ef-d9ac-4bd7-a67e-b4ef7a09cadf"
-                target="_blank"
+                // target="_blank"
               >
                 My Resume
               </a>

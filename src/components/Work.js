@@ -14,9 +14,9 @@ import Img6 from "../assets/youtube-clone.png";
 const Work = () => {
   return (
     <section className="section mt-6" id="work">
-      <div className="container mx-200">
+      <div className="container mx-auto">
         <h2 className="h2 leading-tight text-accent">My Latest Work.</h2>
-        <div className="flex flex-col lg:flex-col gap-x-10">
+        <div className="flex flex-col lg:flex-row gap-x-10">
           <motion.div
             variants={fadeIn("right", 0.2)}
             initial="hidden"
@@ -24,24 +24,24 @@ const Work = () => {
             viewport={{ once: false, amount: 0.3 }}
             className="flex-1 flex flex-col gap-y-12 mb-10 lg:mb-0"
           >
-            <div className="group relative overflow-hidden border-2 border-white/50 rounded-xl">
-              <div className="group-hover:bg-black/70 w-full h-full absolute z-40 transition-all duration-300"></div>
+            <div className="group relative overflow-hidden border-2 border-white/50 rounded-xl flex flex-row">
               <img
                 className="group-hover:scale-125 transition-all duration-500"
                 src={Img3}
                 alt=""
               />
-              <a
-                href="https://ecommerce-app88.netlify.app/"
-                target="_blank"
-                rel="noreferrer"
-                className="absolute -bottom-full left-24 lg:left-28 mb-4 group-hover:bottom-16 transition-all duration-500 z-50 btn btn-lg leading-[3]"
-              >
-                Live Demo
-              </a>
-              <div className="absolute lg:-bottom-full left-20 lg:left-32 group-hover:bottom-8  transition-all duration-700 z-50 ">
-                <span className="text-white text-3xl sm:text-xl">Ecommerce Shop</span>
-              </div>
+             <div>
+             Marketing Objectives: Conversion Campaign
+Industry: E-commerce
+Platform: TikTok
+Country: Saudi Arabia 
+Total Purchases = 42,295 Orders
+CPP (Cost Per Purchase) = 7.37 $
+Sales: 12,688,500 SAR
+A.O.V = 300 SAR
+ROAS = 10.8
+Total Spend = 311,623 $
+             </div>
             </div>
             <div className="group relative overflow-hidden border-2 border-white/50 rounded-xl">
               <div className="group-hover:bg-black/70 w-full h-full absolute z-40 transition-all duration-300"></div>

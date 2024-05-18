@@ -6,7 +6,7 @@ import { fadeIn } from "../variants";
 
 import Img1 from "../assets/hotel-starter.png";
 import Img2 from "../assets/real-estate.png";
-import Img3 from "../assets/ecommerce-app.png";
+import Img3 from "../assets/img3.jpg";
 import Img4 from "../assets/restaurant-starter.png";
 import Img5 from "../assets/3D-card.png";
 import Img6 from "../assets/youtube-clone.png";

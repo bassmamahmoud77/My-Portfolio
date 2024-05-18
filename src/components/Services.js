@@ -8,48 +8,44 @@ import ProgressBar from "@ramonak/react-progress-bar";
 
 const services = [
   {
-    skill: "HTML",
+    skill: "Meta Ads",
+    progress: "100%",
+  },
+  {
+    skill: "Google Ads",
     progress: "95%",
   },
   {
-    skill: "CSS",
-    progress: "85%",
-  },
-  {
-    skill: "BootStrap",
+    skill: "TikTok Ads",
     progress: "95%",
   },
   {
-    skill: "Tailwind",
+    skill: "Snapchat Ads",
     progress: "90%",
   },
   {
-    skill: "Javascript",
-    progress: "70%",
+    skill: "LinkedIn Ads",
+    progress: "80%",
   },
   {
-    skill: "jQuery",
+    skill: "Google analytics",
     progress: "75%",
   },
   {
-    skill: "Typescript",
+    skill: "TypesFacebook testing, scaling and retargeting ",
     progress: "80%",
   },
   {
-    skill: "Sass",
+    skill: "Facebook tracking and analytics tools",
     progress: "90%",
   },
   {
-    skill: "React",
+    skill: "Ads Copywriting ",
     progress: "90%",
   },
   {
-    skill: "Redux",
+    skill: "Landing page creation",
     progress: "85%",
-  },
-  {
-    skill: "ReduxToolkit",
-    progress: "80%",
   },
 ];
 
@@ -68,7 +64,7 @@ const Services = () => {
           >
             <h2 className="h2 text-accent mb-6">What are my skills</h2>
             <h3 className="h3 max-w-[455px] mb-16">
-            I'm a front-end React.js developer passionate about creating modern web applications            </h3>
+            I'm a Senior Media Buyer </h3>
             <Link
               to="work"
               smooth={true}

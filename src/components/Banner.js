@@ -47,10 +47,11 @@ const Banner = () => {
               whileInView={"show"}
               viewport={{ once: false, amount: 0.7 }}
                className="mb-8 max-w-lg mx-auto lg:mx-0">
-              I'm an detail-oriented Frontend Developer seeking an entry-level
-              position with Company to use my skills in coding, troubleshooting
-              complex problems, and assisting in the timely completion of
-              projects.
+              I am a seasoned Performance Media Buyer and Growth Marketer with extensive experience spanning several years within the Digital Marketing industry. My expertise encompasses a comprehensive understanding of paid advertising strategies, which I adeptly apply to achieve business objectives and foster growth while maximizing Return on Ad Spend (ROAS) and Return on Investment (ROI). Throughout my career, I have cultivated a profound comprehension of online digital sales, enabling me to orchestrate successful campaigns across various platforms including: (Facebook – Instagram – TikTok – Snapchat – Google)
+
+My proficiency extends across diverse industries such as: (E-commerce – Real Estate – Services – Medical – Educational – Food & Beverage)
+
+across a range of countries including Egypt, Saudi Arabia, Emirates
             </motion.p>
             <motion.div variants={fadeIn("up", 0.6)}
               initial="hidden"
@@ -64,7 +65,7 @@ const Banner = () => {
                 </Link>
                 </button>
               <a
-                href="https://acrobat.adobe.com/id/urn:aaid:sc:EU:83f3bab1-dbd9-49c9-83db-174b208e87ad"
+                href="https://acrobat.adobe.com/id/urn:aaid:sc:eu:9d30f9ef-d9ac-4bd7-a67e-b4ef7a09cadf"
                 target="_blank"
                 rel="noreferrer"
                 className="text-gradient btn-link"

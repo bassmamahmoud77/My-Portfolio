@@ -31,15 +31,14 @@ const About = () => {
             viewport={{ once: false, amount: 0.3 }} className="flex-1">
             <h2 className="h2 text-accent">About me</h2>
             <h3 className="h3 mb-4">
-            I'm a front-end React.js developer passionate about creating modern web applications            </h3>
+            I'm a Performance Media Buyer
+            </h3>
             <p className="mb-6">
-              I'm a front-end React.js developer passionate about creating
-              modern web applications. With expertise in HTML, CSS, and
-              JavaScript, I specialize in building dynamic and interactive user
-              interfaces using React.js, Redux, RedexToolkit. I focus on writing
-              clean and maintainable code to deliver exceptional user
-              experiences. Let's collaborate to bring your ideas to life and
-              craft engaging web applications together!
+            I am a seasoned Performance Media Buyer and Growth Marketer with extensive experience spanning several years within the Digital Marketing industry. My expertise encompasses a comprehensive understanding of paid advertising strategies, which I adeptly apply to achieve business objectives and foster growth while maximizing Return on Ad Spend (ROAS) and Return on Investment (ROI). Throughout my career, I have cultivated a profound comprehension of online digital sales, enabling me to orchestrate successful campaigns across various platforms including: (Facebook – Instagram – TikTok – Snapchat – Google)
+
+My proficiency extends across diverse industries such as: (E-commerce – Real Estate – Services – Medical – Educational – Food & Beverage)
+
+across a range of countries including Egypt, Saudi Arabia, Emirates .
             </p>
             {/* <div className="flex gap-x-6 lg:gap-x-10 mb-12">
               <div>
@@ -80,7 +79,7 @@ const About = () => {
                 </Link></button>
               <a
                 className="text-gradient btn-link"
-                href="https://acrobat.adobe.com/id/urn:aaid:sc:EU:83f3bab1-dbd9-49c9-83db-174b208e87ad"
+                href="https://acrobat.adobe.com/id/urn:aaid:sc:eu:9d30f9ef-d9ac-4bd7-a67e-b4ef7a09cadf"
                 target="_blank"
               >
                 My Resume

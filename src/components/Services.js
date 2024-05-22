@@ -66,7 +66,7 @@ const Services = () => {
             <h3 className="h3 max-w-[455px] mb-16">
             I'm a Senior Media Buyer </h3>
             <Link
-              to="work"
+              to="campaigns"
               smooth={true}
               className="btn btn-sm p-4 cursor-pointer"
             >

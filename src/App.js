@@ -6,6 +6,7 @@ import Nav from './components/Nav';
 import About from './components/About';
 import Services from './components/Services';
 import Work from './components/Work';
+import Campaigns from './components/Campaigns'
 import Contact from './components/Contact';
 
 const App = () => {
@@ -16,7 +17,8 @@ const App = () => {
       <Nav />
       <About />
       <Services />
-      <Work />
+      {/* <Work /> */}
+      <Campaigns />
       <Contact />
     </div>
   );

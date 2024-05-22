@@ -2,7 +2,7 @@ import React from "react";
 
 import Image from "../assets/web-development.svg";
 
-import { FaGithub, FaLinkedinIn,  FaFacebookF } from "react-icons/fa";
+import { FaWhatsapp, FaLinkedinIn,  FaFacebookF } from "react-icons/fa";
 
 import { TypeAnimation } from "react-type-animation";
 
@@ -47,11 +47,7 @@ const Banner = () => {
               whileInView={"show"}
               viewport={{ once: false, amount: 0.7 }}
                className="mb-8 max-w-lg mx-auto lg:mx-0">
-              I am a seasoned Performance Media Buyer and Growth Marketer with extensive experience spanning several years within the Digital Marketing industry. My expertise encompasses a comprehensive understanding of paid advertising strategies, which I adeptly apply to achieve business objectives and foster growth while maximizing Return on Ad Spend (ROAS) and Return on Investment (ROI). Throughout my career, I have cultivated a profound comprehension of online digital sales, enabling me to orchestrate successful campaigns across various platforms including: (Facebook – Instagram – TikTok – Snapchat – Google)
-
-My proficiency extends across diverse industries such as: (E-commerce – Real Estate – Services – Medical – Educational – Food & Beverage)
-
-across a range of countries including Egypt, Saudi Arabia, Emirates
+ Results-oriented Senior Media Buyer with a proven track record of driving brand awareness, increasing sales, and optimizing media performance. Adept at developing and executing strategic media plans, negotiating favorable rates, and analyzing data to implement optimization strategies. Strong relationship-building skills with media vendors, resulting in exclusive opportunities and cost savings.
             </motion.p>
             <motion.div variants={fadeIn("up", 0.6)}
               initial="hidden"
@@ -80,9 +76,9 @@ across a range of countries including Egypt, Saudi Arabia, Emirates
               <a href="https://www.linkedin.com/in/basma-mahmoud-6a846225a" target="_blank" rel="noreferrer">
                 <FaLinkedinIn />
               </a>
-              <a href="https://github.com/bassmamahmoud77" target="_blank"   rel="noreferrer"
+              <a href="tel:+201156911551" target="_blank"   rel="noreferrer"
 >
-                <FaGithub />
+                <FaWhatsapp />
               </a>
               <a
                 href="https://www.facebook.com/bosy.noty.98?mibextid=LQQJ4d"

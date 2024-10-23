@@ -6,11 +6,13 @@ import { fadeIn } from "../variants";
 
 import Img1 from "../assets/img1.jpg";
 import Img2 from "../assets/img2.jpg";
+import Img8 from "../assets/copy.png";
 import Img3 from "../assets/img3.jpg";
 import Img4 from "../assets/img4.jpg";
 import Img6 from "../assets/img6.jpg";
 import Img5 from "../assets/img5.jpg";
 import Img7 from "../assets/img7.jpg";
+import Img9 from "../assets/ZO.png";
 
 const Work = () => {
   return (
@@ -200,10 +202,31 @@ const Work = () => {
 <div class="elementor-widget-wrap elementor-element-populated">
 <div class="m-5 mb-0 text-purple-950 m elementor-element elementor-element-8d955c7 elementor-widget elementor-widget-text-editor animated fadeInUp" data-id="8d955c7" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="text-editor.default">
 <div class="elementor-widget-container">
-<ul><li><span class="font-weight: 400;"><strong>Marketing Objectives:</strong> Conversion Campaign </span></li><li><strong class="font-size: 16px;">Industry:</strong><span class="font-size: 16px; font-weight: 400;"> E-commerce</span></li><li><strong class="font-size: 16px;">Platform:</strong><span class="font-size: 16px; font-weight: 400;"> TikTok</span></li><li><strong>Country</strong>: Saudi Arabia&nbsp;</li><li><strong class="font-size: 16px;">Total Purchases</strong><span class="font-size: 16px; font-weight: 400;">&nbsp;= <strong>42,295 Orders</strong></span></li><li><strong class="font-size: 16px;">CPP (Cost Per Purchase)</strong><span class="font-size: 16px; font-weight: 400;"> = 7.37 $</span></li><li><strong>Sales: 12,688,500 SAR</strong></li><li><strong class="font-size: 16px;">A.O.V</strong><span class="font-size: 16px; font-weight: 400;"> = 300 SAR</span></li><li><strong class="font-size: 16px;">ROAS</strong><span class="font-size: 16px; font-weight: 400;"> = <strong>10.8</strong></span></li><li><strong class="font-size: 16px;">Total Spend</strong><span class="font-size: 16px; font-weight: 400;"> = <strong>311,623 $</strong></span></li></ul> </div>
+<ul><li><span class="font-weight: 400;"><strong>Marketing Objectives:</strong> Conversion Campaign </span></li><li><strong class="font-size: 16px;">Industry:</strong><span class="font-size: 16px; font-weight: 400;"> Cosmetics</span></li><li><strong class="font-size: 16px;">Platform:</strong><span class="font-size: 16px; font-weight: 400;"> Google</span></li><li><strong>Country</strong>: Saudi Arabia&nbsp;</li><li><strong class="font-size: 16px;">Total Purchases</strong><span class="font-size: 16px; font-weight: 400;">&nbsp;= <strong>110 Orders</strong></span></li><li><strong class="font-size: 16px;">CPP (Cost Per Purchase)</strong><span class="font-size: 16px; font-weight: 400;"> = 147 SAR</span></li><li><strong>Sales: 102,000,00 SAR</strong></li><li><strong class="font-size: 16px;">A.O.V</strong><span class="font-size: 16px; font-weight: 400;"> = 582 SAR</span></li><li><strong class="font-size: 16px;">ROAS</strong><span class="font-size: 16px; font-weight: 400;"> = <strong>6.30</strong></span></li><li><strong class="font-size: 16px;">Total Spend</strong><span class="font-size: 16px; font-weight: 400;"> = <strong>16.200 SAR</strong></span></li></ul> </div>
 </div>
 </div>
 </div>
+<div class="flex-1 elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-9577516" data-id="9577516" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-1af8508 elementor-widget elementor-widget-image animated fadeInUp" data-id="1af8508" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="image.default">
+<div class="elementor-widget-container bg-white h-[350px]">
+<div className="group relative overflow-hidden border-2 border-white/50 pt-  ">
+              <img
+                className="group-hover:scale-125 transition-all duration-500"
+                src={Img9}
+                alt=""
+              />
+             
+            </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-inner-section elementor-element elementor-element-cd39a78 elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="cd39a78" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default flex flex-col lg:flex-row  mb-0">
+
 <div class="flex-1 elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-9577516" data-id="9577516" data-element_type="column">
 <div class="elementor-widget-wrap elementor-element-populated">
 <div class="elementor-element elementor-element-1af8508 elementor-widget elementor-widget-image animated fadeInUp" data-id="1af8508" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="image.default">
@@ -212,6 +235,42 @@ const Work = () => {
               <img
                 className="group-hover:scale-125 transition-all duration-500"
                 src={Img1}
+                alt=""
+              />
+             
+            </div>
+</div>
+</div>
+</div>
+</div>
+<div class="flex-1 bg-[#f4f4f4] elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-ac47b24" data-id="ac47b24" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="m-5 mb-0 text-purple-950 m elementor-element elementor-element-8d955c7 elementor-widget elementor-widget-text-editor animated fadeInUp" data-id="8d955c7" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<ul><li><span class="font-weight: 400;"><strong>Marketing Objectives:</strong> Conversion Campaign </span></li><li><strong class="font-size: 16px;">Industry:</strong><span class="font-size: 16px; font-weight: 400;"> E-commerce</span></li><li><strong class="font-size: 16px;">Platform:</strong><span class="font-size: 16px; font-weight: 400;"> TikTok</span></li><li><strong>Country</strong>: Saudi Arabia&nbsp;</li><li><strong class="font-size: 16px;">Total Purchases</strong><span class="font-size: 16px; font-weight: 400;">&nbsp;= <strong>42,295 Orders</strong></span></li><li><strong class="font-size: 16px;">CPP (Cost Per Purchase)</strong><span class="font-size: 16px; font-weight: 400;"> = 7.37 $</span></li><li><strong>Sales: 12,688,500 SAR</strong></li><li><strong class="font-size: 16px;">A.O.V</strong><span class="font-size: 16px; font-weight: 400;"> = 300 SAR</span></li><li><strong class="font-size: 16px;">ROAS</strong><span class="font-size: 16px; font-weight: 400;"> = <strong>10.8</strong></span></li><li><strong class="font-size: 16px;">Total Spend</strong><span class="font-size: 16px; font-weight: 400;"> = <strong>311,623 $</strong></span></li></ul> </div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-section elementor-inner-section elementor-element elementor-element-cd39a78 elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="cd39a78" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default flex flex-col lg:flex-row  mb-0">
+<div class="flex-1 bg-[#f4f4f4] elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-ac47b24" data-id="ac47b24" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="m-5 mb-0 text-purple-950 m elementor-element elementor-element-8d955c7 elementor-widget elementor-widget-text-editor animated fadeInUp" data-id="8d955c7" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<ul><li><span class="font-weight: 400;"><strong>Marketing Objectives:</strong> Conversion Campaign </span></li><li><strong class="font-size: 16px;">Industry:</strong><span class="font-size: 16px; font-weight: 400;"> Cosmetics</span></li><li><strong class="font-size: 16px;">Platform:</strong><span class="font-size: 16px; font-weight: 400;"> Google</span></li><li><strong>Country</strong>: Saudi Arabia&nbsp;</li><li><strong class="font-size: 16px;">Total Purchases</strong><span class="font-size: 16px; font-weight: 400;">&nbsp;= <strong>355 Orders</strong></span></li><li><strong class="font-size: 16px;">CPP (Cost Per Purchase)</strong><span class="font-size: 16px; font-weight: 400;"> = 62.45 SAR</span></li><li><strong>Sales: 159,000,00 SAR</strong></li><li><strong class="font-size: 16px;">A.O.V</strong><span class="font-size: 16px; font-weight: 400;"> = 300 SAR</span></li><li><strong class="font-size: 16px;">ROAS</strong><span class="font-size: 16px; font-weight: 400;"> = <strong>7.16</strong></span></li><li><strong class="font-size: 16px;">Total Spend</strong><span class="font-size: 16px; font-weight: 400;"> = <strong>22.200 SAR</strong></span></li></ul> </div>
+</div>
+</div>
+</div>
+<div class="flex-1 elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-9577516" data-id="9577516" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+<div class="elementor-element elementor-element-1af8508 elementor-widget elementor-widget-image animated fadeInUp" data-id="1af8508" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="image.default">
+<div class="elementor-widget-container bg-white h-[350px]">
+<div className="group relative overflow-hidden border-2 border-white/50 pt-20  ">
+              <img
+                className="group-hover:scale-125 transition-all duration-500"
+                src={Img8}
                 alt=""
               />
              

@@ -61,7 +61,7 @@ const Banner = () => {
                 </Link>
                 </button>
               <a
-                href="https://acrobat.adobe.com/id/urn:aaid:sc:eu:9d30f9ef-d9ac-4bd7-a67e-b4ef7a09cadf"
+                href="https://acrobat.adobe.com/id/urn:aaid:sc:EU:689f08e3-e71e-4574-8a94-c3f00775cc4f"
                 target="_blank"
                 rel="noreferrer"
                 className="text-gradient btn-link"
